@@ -1,0 +1,15 @@
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\proyecto metrodev.exe
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\proyecto metrodev.deps.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\proyecto metrodev.runtimeconfig.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\proyecto metrodev.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\ref\proyecto metrodev.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\bin\Debug\net6.0\proyecto metrodev.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.csproj.AssemblyReference.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.AssemblyInfoInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.AssemblyInfo.cs
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.csproj.CoreCompileInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\ref\proyecto metrodev.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\proyecto metrodev\obj\Debug\net6.0\proyecto metrodev.genruntimeconfig.cache
